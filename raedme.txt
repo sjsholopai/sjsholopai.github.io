@@ -1,0 +1,7 @@
+Tämä projekti on perustettu Githubin verrkosivukäytön testaamiseksi. Tarkoitus on kehittää jonkunsorttista portfoliota.
+
+1. Githubiin on perustettu uusi tyhjä projekti githubin työkaluilla osoitteeseen https://github.com/sjsholopai/sjsholopai.github.io.git
+
+2. Tämä projekti on kloonattu R-studionlla työhakemistoksi
+
+3. Readme.txt tiedosto on lisätty projektiin R-studiossa, ja siellä sen työstö on myös tapahtunut. R-studion kautta suoritetaan myös ensimmäinen commit ja push.
